@@ -1,7 +1,7 @@
 # sadurrpl
 <center>Berisi Saduran Matakuliah Analisis dan Perancangan PL</center>
 <br>
-<style="text-align:left;">Nim      : 1811500002<br>
+<left>Nim      : 1811500002<br>
 <left>Nama     : Dian Lesmana<br>
 <left>Kelompok : TI6A<br>
 <left>Matkul   : Analisis dan Perancangan PL<br>
