@@ -1,10 +1,10 @@
 # sadurrpl
-Berisi Saduran Matakuliah Analisis dan Perancangan PL<br>
+<center>Berisi Saduran Matakuliah Analisis dan Perancangan PL<br>
 <br>
-Nim      : 1811500002<br>
-Nama     : Dian Lesmana<br>
-Kelompok : TI6A<br>
-Matkul   : Analisis dan Perancangan PL<br>
-Semester : Genap<br>
+<left>Nim      : 1811500002<br>
+<left>Nama     : Dian Lesmana<br>
+<left>Kelompok : TI6A<br>
+<left>Matkul   : Analisis dan Perancangan PL<br>
+<left>Semester : Genap<br>
 <br>
-TAHUN AJARAN 2020/2021
+<center>TAHUN AJARAN 2020/2021
