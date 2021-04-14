@@ -1,5 +1,5 @@
 # sadurrpl
-<center>Berisi Saduran Matakuliah Analisis dan Perancangan PL<br>
+<center>Berisi Saduran Matakuliah Analisis dan Perancangan PL</center><br>
 <br>
 <left>Nim      : 1811500002<br>
 <left>Nama     : Dian Lesmana<br>
